@@ -1,0 +1,1 @@
+/home/nacho/.p10k.zsh
