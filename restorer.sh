@@ -3,7 +3,7 @@
 # Permissions: chmod +x copy.sh
 
 # Path to the git directory
-DOTFILES="$HOME/Casa/Workbench/Giteando/Dotfiles"
+DOTFILES="$HOME/Casa/Workbench/Giteando/personal/Dotfiles"
 # Create the directory if not exist
 mkdir -p "$DOTFILES"
 
