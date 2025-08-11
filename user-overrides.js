@@ -1,4 +1,4 @@
-// Firefox user .js configuration. To use whit arkenfox.
+// User .js configuration for Firefox, use with arkenfox.
 
 /*********************** Daily Ping ***********************/
 user_pref("datareporting.usage.uploadEnabled", false);
