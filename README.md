@@ -18,7 +18,6 @@ A script that copies the settings from `Home` to a directory with git. To change
 - The second option: `2`. Restores the settings on a new system.
 - The third option: `3`. Skips the process. "Ignores any character other than `1` or `2`".
 
-Translated with DeepL.com (free version)
 
 
 ### Español 
