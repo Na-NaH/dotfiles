@@ -16,7 +16,7 @@ A script that copies the settings from `Home` to a directory with git. To change
 
 - The first option: `1`. Copies the settings from `Home` to `DOTFILES`. 
 - The second option: `2`. Restores the settings on a new system.
-- The third option: `3`. Skips the process. "Ignores any character other than `1` or `2`".
+- The third option: `3/*`. Skips the process. "Ignores any character other than `1` or `2`".
 
 
 
@@ -31,6 +31,6 @@ Un scritp que copia la configuraciones de `Home`, hacia un un directorio con git
 
 - La primera opción: `1`. Copia la configuraciones de `Home` hacia `DOTFILES`. 
 - La segunda opción: `2`. Es para restaurar la configuración en un nuevo sistema.
-- La tercera opción: `3`. Salta el proceso. "Ignora cualquier carácter que no sea `1` o `2`".
+- La tercera opción: `3/*`. Salta el proceso. "Ignora cualquier carácter que no sea `1` o `2`".
 
 
