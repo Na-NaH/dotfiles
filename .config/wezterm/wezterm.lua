@@ -6,7 +6,7 @@ if wezterm.config_builder then
   config = wezterm.config_builder()
 end
 
--- Toggle the tab bar visibility
+-- Toggle the tab bar visibility function. Need reload_config true
 wezterm.on('toggle-settings', function(window)
   local overrides = window:get_config_overrides() or {}
   enable_tab_bar = not enable_tab_bar
@@ -19,13 +19,15 @@ config = {
 
   automatically_reload_config = true, -- automatic reload the config file
   window_close_confirmation = "NeverPrompt", -- no close confirm
+
   keys = {
+    -- Key to toggle the tab bar. Need reload_config true
     {key = 'F2', action = wezterm.action({ EmitEvent = 'toggle-settings' }),},
   },
 
   --------------------- Font ---------------------
 
-  font = wezterm.font("RobotoMono Nerd Font Mono", { weight = "Regular" }),
+  font = wezterm.font("RobotoMono Nerd Font Mono", { weight = "Regular" }), -- font style
   font_size = 11.5, -- size font
 
   --------------------- Appearance --------------------- 
@@ -36,7 +38,7 @@ config = {
   initial_cols = 86, -- windows hight
   initial_rows = 23, -- windows width
   window_decorations = "RESIZE",
-  enable_tab_bar = false, -- disable tab bar
+  enable_tab_bar = false, -- disable tab bar by default
 
   --------------------- Hyper-Links --------------------- 
 
