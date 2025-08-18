@@ -18,9 +18,9 @@ Personal repository containing the settings for various programs.
 
 A script that copies the settings from `Home` to a directory with git. To change where it points to: `DOTFILES=“your/desired/directory”`.
 
-- The first option: `1`. Copies the settings from `Home` to `DOTFILES`. 
-- The second option: `2`. Restores the settings on a new system.
-- The third option: `3/*`. Skips the process. "Ignores any character other than `1` or `2`".
+1. The first option: `1`. Copies the settings from `Home` to `DOTFILES`. 
+2. The second option: `2`. Restores the settings on a new system.
+3. The third option: `3/*`. Skips the process. "Ignores any character other than `1` or `2`".
 
 
 #### Credits
@@ -53,9 +53,9 @@ Repositorio personal que contiene las configuraciones de varios programas.
 
 Un scritp que copia la configuraciones de `Home`, hacia un un directorio con git. Para modificar hacia donde apunta: `DOTFILES="tu/directorio/deseado"`.
 
-- La primera opción: `1`. Copia la configuraciones de `Home` hacia `DOTFILES`. 
-- La segunda opción: `2`. Es para restaurar la configuración en un nuevo sistema.
-- La tercera opción: `3/*`. Salta el proceso. "Ignora cualquier carácter que no sea `1` o `2`".
+1. La primera opción: `1`. Copia la configuraciones de `Home` hacia `DOTFILES`. 
+2. La segunda opción: `2`. Es para restaurar la configuración en un nuevo sistema.
+3. La tercera opción: `3/*`. Salta el proceso. "Ignora cualquier carácter que no sea `1` o `2`".
 
 
 #### Créditos
