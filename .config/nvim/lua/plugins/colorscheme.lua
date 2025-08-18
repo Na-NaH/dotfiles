@@ -3,7 +3,7 @@ return {
   lazy = false,
   priority = 1000,  -- Load before all the other plugins
   config = function()
-    -- Theme options:
+    -- Theme options
     require("tokyonight").setup({
       transparent = true,
       styles = {

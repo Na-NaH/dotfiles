@@ -15,7 +15,6 @@ return {
       "markdown",
       "markdown_inline",
       "bash",
-      "vim",
     },
     highlight = {
     enable = true,
