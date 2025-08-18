@@ -39,6 +39,7 @@ Links, resources, and credits for the configurations that served as inspiration:
 
 - WezTerm:
     - [Easy WezTerm configuration by Henry Misc.](https://www.youtube.com/watch?v=e34qllePuoc)
+    - [Improving the handling of Markdown links by Adrian Kosmaczewski.](https://akos.ma/blog/adopting-wezterm/)
 
 - Kitty:
     - [Colorscheme list.](https://github.com/dexpota/kitty-themes?tab=readme-ov-file)
@@ -74,6 +75,7 @@ Links, recursos y créditos para las configuraciones que me sirvieron como inspi
 
 - WezTerm:
     - [Configuración "Easy WezTerm" de Henry Misc.](https://www.youtube.com/watch?v=e34qllePuoc)
+    - [Mejorar el manejo de los enlaces de Markdown de Adrian Kosmaczewski.](https://akos.ma/blog/adopting-wezterm/)
 
 - Kitty:
     - [Lista de esquema de colores.](https://github.com/dexpota/kitty-themes?tab=readme-ov-file)
