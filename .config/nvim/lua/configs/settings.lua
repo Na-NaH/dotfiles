@@ -12,3 +12,4 @@ vim.o.spell = false --disable autocorrect
 
 vim.o.autoread = true -- autoread external changes made to a file - useful for git
 
+

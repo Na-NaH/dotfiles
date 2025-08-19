@@ -10,13 +10,25 @@ return {
       mappings = {
         n = {
           ['<C-d>'] = "delete_buffer",
-          ["<C-h>"] = "file_split",
-          ["<C-s>"] = "file_vsplit",
+          ["<C-w>s"] = "file_split",
+          ["<C-w>v"] = "file_vsplit",
         },
       },
       file_ignore_patterns = {
-        "Casa/*",
+        -- ignore all files inside this directories
         "Sync/Storage/*",
+        "Casa/Music/*",
+        "Casa/Documents/*",
+        "Casa/Media/*",
+        "Casa/zaass/*",
+        "Casa/Workbench/Blender/*",
+        "Casa/Workbench/Virtual/*",
+      },
+    },
+    pickers = {
+      buffers = {
+        sort_lastused = false,  -- Sort by last used
+        sort_mru = true,       -- Sort by recently used
       },
     },
     extensions = {

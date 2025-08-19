@@ -2,11 +2,7 @@ return {
   "epwalsh/obsidian.nvim",
   version = "*",
   lazy = true,
-  --  ft = "markdown",
-  event = {
-    "BufReadPre /home/nacho/Sync/Vaults/*",
-    "BufNewFile /home/nacho/Sync/Vaults/*",
-  },
+  ft = "markdown",
   dependencies = {
     "nvim-lua/plenary.nvim",
   },
@@ -14,11 +10,11 @@ return {
     workspaces = {
       {
         name = "Personal",
-        path = "/home/nacho/Sync/Vaults/Personal",
+        path = "~/Sync/Vaults/Personal",
       },
       {
         name = "Estudios",
-        path = "/home/nacho/Sync/Vaults/Estudios",
+        path = "~/Sync/Vaults/Estudios",
       },
     },
     new_notes_location = "current_dir",

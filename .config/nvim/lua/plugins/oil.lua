@@ -31,8 +31,8 @@ return {
     },
     use_default_keymaps = true,
     keymaps = {
-      ["<C-h>"] = { "actions.select", opts = { horizontal = true } },
-      ["<C-s>"] = { "actions.select", opts = { vertical = true } },
+      ["<C-w>s"] = { "actions.select", opts = { horizontal = true } },
+      ["<C-w>v"] = { "actions.select", opts = { vertical = true } },
       ["<Esc>"] = { "actions.close", mode = "n" },
     },
   },

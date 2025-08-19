@@ -36,6 +36,7 @@ Links, resources, and credits for the configurations that served as inspiration:
 - Neovim:
     - [Mastering Neovim series by Alpha Developer.](https://www.youtube.com/playlist?list=PLzc_3azyItDXysVKuih0vRHziTuSZEVP9)
     - [Neovim from scratch by ThePrimeagen.](https://www.youtube.com/watch?v=w7i4amO_zaE)
+    - [Note Taking by DevOps Toolbox](https://www.youtube.com/watch?v=5ht8NYkU9wQ)
 
 - WezTerm:
     - [Easy WezTerm configuration by Henry Misc.](https://www.youtube.com/watch?v=e34qllePuoc)
@@ -72,6 +73,7 @@ Links, recursos y créditos para las configuraciones que me sirvieron como inspi
 - Neovim:
     - [Serie "Mastering Neovim" de Alpha Developer.](https://www.youtube.com/playlist?list=PLzc_3azyItDXysVKuih0vRHziTuSZEVP9)
     - [Vídeo "Neovim RC From Scratch" de ThePrimeagen.](https://www.youtube.com/watch?v=w7i4amO_zaE)
+    - [Obsidian para tomar notas de DevOps Toolbox](https://www.youtube.com/watch?v=5ht8NYkU9wQ)
 
 - WezTerm:
     - [Configuración "Easy WezTerm" de Henry Misc.](https://www.youtube.com/watch?v=e34qllePuoc)
